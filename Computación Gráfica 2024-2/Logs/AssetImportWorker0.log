@@ -384,3 +384,35 @@ Received Import Request.
 Start importing Assets/Mateo/Tornado/Texturas using Guid(d22c3c0a791af4732a986053f0e3ee76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97dabfe60f782beb528d5b651e36c8fd') in 0.000450 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2420.986777 seconds.
+  path: Assets/Mateo/Tornado/ExamenTornado
+  artifactKey: Guid(c316917953fac4cb6b0b0446d1bb0fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mateo/Tornado/ExamenTornado using Guid(c316917953fac4cb6b0b0446d1bb0fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c8bdc9a75d4a1ef501b860a7dbcb958') in 0.008900 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 5.955355 seconds.
+  path: Assets/Mateo/Tornado/ExamenTornado/Prifab
+  artifactKey: Guid(39d32369b36c2f94985b9250730a416a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mateo/Tornado/ExamenTornado/Prifab using Guid(39d32369b36c2f94985b9250730a416a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bab506e3da77acd84b6e7076bf25db39') in 0.001215 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.684876 seconds.
+  path: Assets/Mateo/Tornado/ExamenTornado/Prifab/Esplandor 1.prefab
+  artifactKey: Guid(aff3cd597bd9dc44aa4a5908a1d89c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mateo/Tornado/ExamenTornado/Prifab/Esplandor 1.prefab using Guid(aff3cd597bd9dc44aa4a5908a1d89c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbc563b45092046dc1f553b10736160f') in 0.020281 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Mateo/Tornado/ExamenTornado/Prifab/Tornao.prefab
+  artifactKey: Guid(ba7cfa7d037504ef082affcd87cc996f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mateo/Tornado/ExamenTornado/Prifab/Tornao.prefab using Guid(ba7cfa7d037504ef082affcd87cc996f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4db10407f4bb8c71449f8721ae4d4caf') in 0.061459 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 40
