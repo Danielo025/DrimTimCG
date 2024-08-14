@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Default Environment/Default Environment 1.unity
+- path: Assets/Kael/Tornado/TornadoKael.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
