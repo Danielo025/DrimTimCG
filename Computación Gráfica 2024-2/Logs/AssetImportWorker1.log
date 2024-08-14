@@ -264,3 +264,51 @@ Received Import Request.
 Start importing Assets/Mateo/Tornado/ExamenTornado/Prifab/Prefab.prefab using Guid(f671a8b2d44f8447b8c696b4e97d245c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a50288c7dbf5cc1583d33c3836ac82d') in 0.067776 seconds
 Number of updated asset objects reloaded before import = 3
 Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 79.403408 seconds.
+  path: Assets/Mateo/Tornado/ExamenTornado/Texturas/M_Ola.mat
+  artifactKey: Guid(f8ad3f20e2456094db609e759827d38f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mateo/Tornado/ExamenTornado/Texturas/M_Ola.mat using Guid(f8ad3f20e2456094db609e759827d38f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9265ef39f029a094543a1ca61b97c634') in 0.004620 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/Mateo/Tornado/ExamenTornado/Texturas/M_Tornado.mat
+  artifactKey: Guid(b15eee59d4d9dbc4bb13def3030801cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mateo/Tornado/ExamenTornado/Texturas/M_Tornado.mat using Guid(b15eee59d4d9dbc4bb13def3030801cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45803be4a4756a385a1a364ed3b45814') in 0.001359 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Mateo/Tornado/ExamenTornado/Texturas/OlaTexture.png
+  artifactKey: Guid(a3d05fdd14c69c347b3d2dfb3667e9d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mateo/Tornado/ExamenTornado/Texturas/OlaTexture.png using Guid(a3d05fdd14c69c347b3d2dfb3667e9d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fa1324658ce004d5200e35808e6e885') in 0.003433 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000975 seconds.
+  path: Assets/Mateo/Tornado/ExamenTornado/Texturas/M_Turbo 1.mat
+  artifactKey: Guid(6e21ec6301d1e46f1af8b687a1b81042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mateo/Tornado/ExamenTornado/Texturas/M_Turbo 1.mat using Guid(6e21ec6301d1e46f1af8b687a1b81042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df5167b2ede0a19a5a5ca14a9d862b53') in 0.001146 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Mateo/Tornado/ExamenTornado/Texturas/M_Tornado 1.mat
+  artifactKey: Guid(15196b3d46daea149b28e7df5ddb7b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mateo/Tornado/ExamenTornado/Texturas/M_Tornado 1.mat using Guid(15196b3d46daea149b28e7df5ddb7b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b35ca87941770ac5a26a09c0525e6912') in 0.001813 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 22.643275 seconds.
+  path: Assets/Mateo/Tornado/ExamenTornado/Mesh/Tornado1.fbx
+  artifactKey: Guid(03c5e5fda130f6c4e9ff9cd65068ce34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mateo/Tornado/ExamenTornado/Mesh/Tornado1.fbx using Guid(03c5e5fda130f6c4e9ff9cd65068ce34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8ae32de16f250f614d7193f3409ade3') in 0.006489 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
