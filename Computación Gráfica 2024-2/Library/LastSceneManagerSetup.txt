@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Kael/Tornado/TornadoKael.unity
+- path: Assets/Ejercicio1Tornado/KaelArboleda/TornadoKael.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
