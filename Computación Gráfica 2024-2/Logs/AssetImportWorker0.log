@@ -512,3 +512,11 @@ Received Import Request.
 Start importing Assets/Mateo/Tornado/ExamenTornado/Mesh/Tornado2.fbx using Guid(2b3c00aa8dcbad14d8472473b59e0546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d260f3904f04fe67d39bca8489c0f3f') in 0.004822 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 64.742753 seconds.
+  path: Assets/UniversalRenderPipelineGlobalSettings.asset
+  artifactKey: Guid(18dc0cd2c080841dea60987a38ce93fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UniversalRenderPipelineGlobalSettings.asset using Guid(18dc0cd2c080841dea60987a38ce93fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87948d25407d8cfdd813849918881abe') in 0.015582 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
