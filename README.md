@@ -8,6 +8,13 @@ https://www.youtube.com/watch?v=3sVYuXg-oC4
 Mateo Barón
 https://drive.google.com/file/d/194B24iQ1mz5IljHOROGGxCBxo_rFCg4z/view?usp=share_link
 
+Daniel Zúñiga
+https://drive.google.com/file/d/1mDg5mSgywIDQtvyNVAi7u9zq2mlUZbHm/view?usp=sharing
+
+Isabella Guillermo
+https://drive.google.com/file/d/1zZWAwr0IUMEkp04vU0uFOpzrRu84ANIF/view?usp=sharing
+
+
 # Ejercicio 2 Partículas Grupal
 https://youtu.be/7_4RJs2kpkU
 
