@@ -43,13 +43,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Borde: 0.51
-    - _Escala: 120.25
-    - _Limite: 0.3
+    - _Borde: 0.71
+    - _Escala: 54
+    - _Limite: 0.29
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Suavidad: 1
-    - _Velocidad: 1.48
+    - _Suavidad: 0.79
+    - _Velocidad: 2.71
     m_Colors: []
   m_BuildTextureStacks: []
   m_AllowLocking: 1

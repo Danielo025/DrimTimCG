@@ -59,6 +59,6 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Polares: {r: 5, g: 0.9, b: 0, a: 0}
+    - _Polares: {r: 7.3, g: 0.68, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
