@@ -21,3 +21,7 @@ https://youtu.be/7_4RJs2kpkU
 # Ejercicio 3 Shaders
 Mateo Barón 
 https://drive.google.com/file/d/13ng1_-rU1CUBOfnATGDlLf2HHEcdOCg6/view?usp=sharing
+
+Daniel Zuñiga
+https://drive.google.com/drive/folders/1JQ5tb6gF767g4ozQ2GfAlBmZqsBFJme_?usp=sharing
+
