@@ -60,9 +60,10 @@ Material:
     - _Blend: 0
     - _CastShadows: 1
     - _Cull: 2
+    - _Displacement: 0.5
     - _DstBlend: 10
     - _Frequency: 5
-    - _IntersectionParam: 0.08
+    - _IntersectionParam: 0.24
     - _NormalStrength: 0.4
     - _QueueControl: 0
     - _QueueOffset: 0
@@ -76,6 +77,7 @@ Material:
     m_Colors:
     - _ColorAgua: {r: 0.45644003, g: 0.4896926, b: 0.5773585, a: 0}
     - _ColorEspuma: {r: 0.6781417, g: 0.73707426, b: 0.8113208, a: 0}
+    - _IntensidadRefraccion: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &3061195202339419400
