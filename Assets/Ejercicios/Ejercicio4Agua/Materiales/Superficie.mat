@@ -32,6 +32,10 @@ Material:
         m_Texture: {fileID: 8900000, guid: e760d2b07040c5a43b9747eeb5e16d76, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleReflectedCubemap_cd71da45002941a5a57ad2c20b6e251f_Cube_1_Cubemap:
+        m_Texture: {fileID: 8900000, guid: e760d2b07040c5a43b9747eeb5e16d76, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_c92832183e56461da5764a4d7088e91c_Texture_1_Texture2D:
         m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
         m_Scale: {x: 1, y: 1}
@@ -67,7 +71,7 @@ Material:
     - _Displacement: 1.16
     - _DstBlend: 10
     - _Frequency: 5
-    - _IntersectionParam: 0.24
+    - _IntersectionParam: 0.1
     - _NormalStrength: 0.58
     - _QueueControl: 0
     - _QueueOffset: 0
