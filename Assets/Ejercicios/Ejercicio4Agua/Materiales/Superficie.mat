@@ -40,6 +40,10 @@ Material:
         m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _normal:
+        m_Texture: {fileID: 2800000, guid: 2320a574720ea0345995c34dcd5ac73d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -60,13 +64,15 @@ Material:
     - _Blend: 0
     - _CastShadows: 1
     - _Cull: 2
-    - _Displacement: 0.5
+    - _Displacement: 1.16
     - _DstBlend: 10
     - _Frequency: 5
     - _IntersectionParam: 0.24
-    - _NormalStrength: 0.4
+    - _NormalStrength: 0.58
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _Refraction: 0.1
+    - _Saturaci_nLuz: 2.64
     - _Speed: 0.2
     - _SrcBlend: 5
     - _Surface: 1
