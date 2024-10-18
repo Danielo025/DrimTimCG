@@ -71,7 +71,7 @@ Material:
     - _Displacement: 1.16
     - _DstBlend: 10
     - _Frequency: 5
-    - _IntersectionParam: 0.1
+    - _IntersectionParam: 0.08
     - _NormalStrength: 0.58
     - _QueueControl: 0
     - _QueueOffset: 0
