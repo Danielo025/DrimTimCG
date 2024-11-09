@@ -28,11 +28,11 @@ https://youtu.be/YUzNySA9mpk
 Daniel Zuñiga
 https://drive.google.com/drive/folders/1JQ5tb6gF767g4ozQ2GfAlBmZqsBFJme_?usp=sharing
 
-# Ejercicio FINAL
-https://github.com/Kaelidem/DrimTimFinal
-
 Isabella Guillermo
 https://drive.google.com/drive/folders/1q49TBn_NOyd0JNZgEtUs7rgH4nrQgrNK?usp=sharing
 
 # Ejercicio 4 Agua
 https://youtu.be/fxBcjKKjjS4
+
+# Ejercicio FINAL
+https://github.com/Kaelidem/DrimTimFinal
